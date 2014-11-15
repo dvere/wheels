@@ -1,4 +1,4 @@
-# Blender MTL File: 'wheeltest_simple_large_wheel.blend'
+# Blender MTL File: 'wheels_truck_wheel.blend'
 # Material Count: 1
 
 newmtl None
@@ -8,4 +8,4 @@ Kd 0.8 0.8 0.8
 Ks 0.8 0.8 0.8
 d 1
 illum 2
-map_Kd C:\Users\ant\minetest-0.4.10-96fcca4-win64\mods\wheeltest\textures\wheeltest_uv_simple_large_wheel.png
+map_Kd ..\textures\wheels_uv_truck_wheel.png
